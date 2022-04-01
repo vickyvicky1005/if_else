@@ -4,3 +4,8 @@ if(a+b>10)
 {
   Console.WriteLine("The anser is greater than 10")
 }
+else
+{
+  Console.Write("The answer is not greater than 10")
+
+}
